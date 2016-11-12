@@ -11,9 +11,11 @@ title: The bat! IMAP Root folder in settings
 * "Корневая папка" - пусто
 ![В настройках "корневая папка" - пусто]({{site.baseurl}}/images/emptyRootFolder.jpg)
 ![В "Управление папками IMAP" видны все папки]({{site.baseurl}}/images/imapWithEmptyRootFolder.jpg)
-В управлении папками видны все папки ящика.
+  
+  В управлении папками видны все папки ящика.
 
 * "Корневая папка" - INBOX
 ![В настройках "корневая папка" - пусто]({{site.baseurl}}/images/filledRootFolder.jpg)
 ![В "Управление папками IMAP" видна только IMAP и ее подпапки]({{site.baseurl}}/images/imapWithFilledRootFolder.jpg)
-В управлении папками видны только подпапки папки INBOX (в моем случае папка toMe)
+
+  В управлении папками видны только подпапки папки INBOX (в моем случае папка toMe)
