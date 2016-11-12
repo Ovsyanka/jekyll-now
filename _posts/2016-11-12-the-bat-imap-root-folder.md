@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+title: The bat! IMAP Root folder in settings
 ---
 ## The bat! Что такое корневая папка (root folder) в настройках IMAP
 
