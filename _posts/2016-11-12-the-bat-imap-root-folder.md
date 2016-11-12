@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 ## The bat! Что такое корневая папка (root folder) в настройках IMAP
 
@@ -8,11 +8,11 @@ published: false
 Например, у меня есть ящик, в котором все папки находятся на верхнем уровне, а в папке INBOX (Входящие) есть еще одна toMe. На скриншотах ниже показано, как будет выглядеть управление IMAP папками _("Ящик" - "Управление папками IMAP")_ в зависимости от значения в поле **Корневая папка** _("Ящик" - "Свойства почтового ящика" - "Управление почтой" - "Настройки IMAP" - "Корневая папка")_. Рассмотрю два случая:
 
 * "Корневая папка" - пусто
-![В настройках "корневая папка" - пусто]({{site.baseurl}}/_posts/emptyRootFolder.jpg)
-![В "Управление папками IMAP" видны все папки]({{site.baseurl}}/_posts/imapWithEmptyRootFolder.jpg)
+![В настройках "корневая папка" - пусто]({{site.baseurl}}/images/emptyRootFolder.jpg)
+![В "Управление папками IMAP" видны все папки]({{site.baseurl}}/images/imapWithEmptyRootFolder.jpg)
 В управлении папками видны все папки ящика.
 
 * "Корневая папка" - INBOX
-![В настройках "корневая папка" - пусто]({{site.baseurl}}/_posts/filledRootFolder.jpg)
-![В "Управление папками IMAP" видна только IMAP и ее подпапки]({{site.baseurl}}/_posts/imapWithFilledRootFolder.jpg)
+![В настройках "корневая папка" - пусто]({{site.baseurl}}/images/filledRootFolder.jpg)
+![В "Управление папками IMAP" видна только IMAP и ее подпапки]({{site.baseurl}}/images/imapWithFilledRootFolder.jpg)
 В управлении папками видны только подпапки папки INBOX (в моем случае папка toMe)
