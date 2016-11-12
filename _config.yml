@@ -57,6 +57,11 @@ prose:
         field:
           element: "hidden"
           value: "post"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          placeholder: "Enter your headline here"
 
 #
 # !! You don't need to change any of the configuration flags below !!
